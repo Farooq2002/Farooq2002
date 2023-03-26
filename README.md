@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farooq2002
 - 👀 I’m interested in Mobile App Develpment
 - 🌱 I’m currently learning flutter
-- 💞️ I’m Freelancer o Fiverr
+- 💞️ I’m Freelancer on Fiverr
 
 
 <!---
