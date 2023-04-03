@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farooq2002
+- 👋 Hi, I’m Farooq Ahmad
 - 👀 I’m interested in Mobile App Develpment
 - 🌱 I’m currently learning flutter
 - 💞️ I’m Freelancer on Fiverr
