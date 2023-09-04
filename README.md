@@ -2,7 +2,7 @@
 
 📱 I specialize in creating stunning and user-friendly mobile applications using the power of Flutter.
 
-🌱 Currently, I'm on an exciting journey to master the art of Flutter development, constantly learning and growing to deliver top-notch apps.
+🌱 Currently, I'm on an exciting journey to master the art of Flutter development, constantly learning and growing.
 
 💼 As a Freelancer on Fiverr, I offer my expertise to bring your app ideas to life. Let's collaborate and turn your vision into reality!
 
