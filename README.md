@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Farooq Ahmad
-- 👀 I’m interested in Mobile App Develpment
-- 🌱 I’m currently learning flutter
-- 💞️ I’m Freelancer on Fiverr
+👋 Hi, I'm Farooq Ahmad, a passionate Mobile App Developer.
 
+📱 I specialize in creating stunning and user-friendly mobile applications using the power of Flutter.
 
-<!---
-Farooq2002/Farooq2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm on an exciting journey to master the art of Flutter development, constantly learning and growing to deliver top-notch apps.
+
+💼 As a Freelancer on Fiverr, I offer my expertise to bring your app ideas to life. Let's collaborate and turn your vision into reality!
+
+🚀 Check out my portfolio and see the magic of Flutter in action.
+
+📧 Feel free to reach out to me for app development projects or collaborations. Let's build something amazing together!
